@@ -79,6 +79,7 @@ header {
 }
 
 .destaque {
+<<<<<<< HEAD
 margin-top: 10px;
 }
 
@@ -104,6 +105,35 @@ width: 140px;
 margin: 2px;
 padding-bottom: 10px;
 }
+=======
+    margin-top: 10px;
+}
+.menu-departamentos {
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+/***** Section *****/
+.painel {
+    margin: 10px 0;
+    padding: 10px;
+    width: 445px;
+}
+.novidades {
+    float: left;
+}
+.mais-vendidos {
+    float: right;
+}
+
+.painel li {
+    display: inline-block;
+    vertical-align: top;
+    width: 140px;
+    margin: 2px;
+    padding-bottom: 10px;
+}
+
+>>>>>>> 4291532d0ad065b87ec61c291923bb9207c22989
 .painel h2 {
 font-size: 24px;
 font-weight: bold;
